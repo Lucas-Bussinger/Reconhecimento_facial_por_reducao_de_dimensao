@@ -35,7 +35,7 @@ Sample de Faces
 #### Autovetores de (11ª a 13ª) maiores importâncias ( Diferenças visívies no espaço de amostragem ):
 <img width="984" height="822" alt="reducao_dimensionalidade_dataset_original_2" src="https://github.com/user-attachments/assets/8cdfaa04-93e6-4008-a78f-31f83e15e901" />
 
-## Parte 2: Recomnhecimento Facial:
+## Parte 2: Reconhecimento Facial:
 
 ### Sample de Faces Utilizadas para Reconhecimento 
 ** elas foram retiradas do dataset de "treino"
