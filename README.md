@@ -1,4 +1,4 @@
-# Redução de dimensionalidade por PCA e Reconhecimento facil SEM USO DE REDES NEURAIS
+# Redução de dimensionalidade por PCA e Reconhecimento facial SEM USO DE REDES NEURAIS
 ## Parte 1: Análise
 ### Pessoas:
 O dataset Total possui 38 pessoas, com cada pessoa tendo de 60 a 64 imagens de rosto, em iluminação diferente.
